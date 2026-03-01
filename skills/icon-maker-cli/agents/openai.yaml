@@ -1,0 +1,4 @@
+interface:
+  display_name: "Icon Maker CLI"
+  short_description: "Use icon-maker to generate and troubleshoot Apple app icon sets."
+  default_prompt: "Generate Apple app icon sets with icon-maker and validate outputs."
